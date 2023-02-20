@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Orhun&#x27;s Blog - Thoughts</title>
+      <link>https://blog.orhun.dev</link>
+      <description>FOSS • Linux • Programming</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://blog.orhun.dev/categories/thoughts/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>I finally found out why I&#x27;m so depressed</title>
+          <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://blog.orhun.dev/norway-depression/</link>
+          <guid>https://blog.orhun.dev/norway-depression/</guid>
+          <description>&lt;p&gt;I&#x27;m in Norway and depressed.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>My motivation towards working on open source</title>
+          <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://blog.orhun.dev/open-source-motivation/</link>
+          <guid>https://blog.orhun.dev/open-source-motivation/</guid>
+          <description>&lt;p&gt;Some thoughts about open source and the software industry.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

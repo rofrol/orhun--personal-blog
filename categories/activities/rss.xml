@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Orhun&#x27;s Blog - Activities</title>
+      <link>https://blog.orhun.dev</link>
+      <description>FOSS • Linux • Programming</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://blog.orhun.dev/categories/activities/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>My First Month as an Arch Linux Trusted User</title>
+          <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://blog.orhun.dev/my-first-month-as-tu/</link>
+          <guid>https://blog.orhun.dev/my-first-month-as-tu/</guid>
+          <description>&lt;p&gt;There&#x27;s a start for everything. A new blog... New responsibilities... Maybe a new role in a Linux distribution that is for advanced users...&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
